@@ -1,0 +1,5 @@
+requests
+pytest
+pymysql
+pyyaml
+allure-pytest
